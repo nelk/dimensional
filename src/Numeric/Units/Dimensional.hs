@@ -171,7 +171,7 @@ module Numeric.Units.Dimensional
   (
     -- * Types
     -- $types
-    Dimensional,
+    Dimensional(..),
     Unit, Quantity,
     Metricality(..),
     -- * Physical Dimensions
